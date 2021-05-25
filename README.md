@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<strong> Seja bem vindo(a) ao meu git ❤❤ </strong>
+<strong> Seja bem vindo(a) ao meu github ❤❤ </strong>
 </br>
 Tenho formação na área da educação, biologia e pedagogia. No entanto, sempre me interessei pela área de tecnologa. 
 Hoje faço o curso de Análise de Desenvolvimento de Sistemas e participo de vários projetos independentes!  
